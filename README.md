@@ -14,6 +14,7 @@ The primary goal of this project is to work with real data to analyze a real-wor
 - CSV files
 - Jupyter Notebook
 - Pandas
+- Matplot
 
 ## License
 This project is licensed under the Apache License 2.0- see the [LICENSE](LICENSE) file for details.
